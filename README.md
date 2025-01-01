@@ -86,7 +86,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-![Screenshot 2024-12-29 220006](https://github.com/user-attachments/assets/53bf6e4c-5536-40a1-9516-e43ecc2f5c2a)
+![Screenshot 2025-01-01 142832](https://github.com/user-attachments/assets/0d9b6757-6893-4a1d-8100-defe7d76ec0e)
+
 
 
 **RESULTS**
